@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<students>
+    <std1>
+        <std1:name xmlns:std1="www.sameer.com" student="name">
+            <firstname>sameer</firstname>
+            <lastname>sameer</lastname>
+        </std1:name>
+            <phone>0327767245</phone>
+            <Email>sameer@gmail.com</Email>
+    </std1>
+    <std2>
+            <name>sameer</name>
+            <phone>0327767245</phone>
+            <Email>sameer@gmail.com</Email>
+    </std2>
+    <cd:cd xmlns:cd="www.google.com">
+        <cd:name></cd:name>
+    </cd:cd>
+    <sing:singer xmlns:sing="www.myname.com">
+        <sing:name></sing:name>
+    </sing:singer>
+</students>
